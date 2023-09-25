@@ -10,7 +10,7 @@ Empowering businesses with top-notch DevOps solutions.
 
 ## About Us
 
-Rkssh specializes in comprehensive DevOps services, streamlining development and operations workflows. Expertise in CI/CD, IAC, Kubernetes, Security, Cloud Migration, and more.
+We specializes in comprehensive DevOps services, streamlining development and operations workflows. Expertise in CI/CD, IAC, Kubernetes, Security, Cloud Migration, and more.
 
 ---
 
@@ -37,13 +37,6 @@ Rkssh specializes in comprehensive DevOps services, streamlining development and
 - **Collaboration and Communication:** Slack, Jira, Confluence
 - **Version Control:** Git, GitHub, GitLab and Bitbucket
 - **Other Tools:** Ansible, Chef, Puppet
-
----
-
-## Projects
-
-- [Project Name 1](link_to_project_1): Description of Project 1.
-- [Project Name 2](link_to_project_2): Description of Project 2.
 
 ---
 
