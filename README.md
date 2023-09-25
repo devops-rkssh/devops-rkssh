@@ -1,6 +1,6 @@
 # ⚡ Rkssh.com
 
-![Logo](https://github.com/devops-rkssh/devops-rkssh/blob/main/rkssh_logo1.png)
+![Logo](https://github.com/rkssh/rkssh/blob/main/rkssh_logo1.png)
 
 Empowering businesses with top-notch DevOps solutions.
 
@@ -59,12 +59,12 @@ We specializes in comprehensive DevOps services, streamlining development and op
 ![ZigBee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 
 ## ⚡ My GitHub Stats
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=devops-rkssh&show_icons=true&theme=gotham" alt="devops-rkssh" />
+<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rkssh&show_icons=true&theme=gotham" alt="rkssh" />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=devops-rkssh&show_icons=true&line_height=27&include_all_commits=true"/> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devops-rkssh&hide=TeX&layout=compact)
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rkssh&show_icons=true&line_height=27&include_all_commits=true"/> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkssh&hide=TeX&layout=compact)
  -->
- | <a href="https://github.com/devops-rkssh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devops-rkssh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devops-rkssh&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/rkssh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rkssh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkssh&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## Contact Us
