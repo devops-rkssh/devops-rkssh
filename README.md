@@ -10,7 +10,7 @@ Empowering businesses with top-notch DevOps solutions.
 
 ## ⚡ About Us
 
-We specializes in comprehensive DevOps services, streamlining development and operations workflows. Expertise in CI/CD, IAC, Kubernetes, Security, Cloud Migration, and more.
+We specializes in comprehensive DevOps services, streamlining development and operations workflows. Expertise in CI/CD, IAC, Kubernetes, Securitys, Cloud Migration, and more.
 
 ---
 
