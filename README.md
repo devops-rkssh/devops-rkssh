@@ -1,6 +1,6 @@
 # ⚡ Rkssh.com
 
-![Logo](https://github.com/rkssh/rkssh/blob/main/rkssh_logo1.png)
+![Logo](https://avatars.githubusercontent.com/u/145986169?v=4)
 
 Empowering businesses with top-notch DevOps solutions.
 
